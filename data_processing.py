@@ -8,7 +8,7 @@ def sum(a,b):
     return c
 print("Sum function")
 
-def multiplication(a,b) 
+def multiplication(a,b): 
     d = a*b
     return d
 
